@@ -1,5 +1,5 @@
 body{
-    background-color: grey;
+    background-color: black;
 }
 .meme h1 {
 font-family: "Libre Baskerville", serif;
@@ -21,5 +21,5 @@ text-align: center;
    width: 100%;
    margin-top: 70px;
 
-border: 5px solid white;
+border: 10px solid white;
 }
